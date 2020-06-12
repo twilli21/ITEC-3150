@@ -1,0 +1,30 @@
+24736
+British Literature
+English
+Sophomore
+online
+67964
+Calculus
+Math
+true
+hybrid
+95658
+US History
+History
+true
+online
+27909
+English Composition
+English
+Freshman
+online
+45873
+Algebra
+Math
+false
+hybrid
+64846
+World History
+History
+false
+hybrid

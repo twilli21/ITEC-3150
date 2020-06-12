@@ -1,0 +1,3 @@
+(0) distinct values/keys
+(1) Given a big-O requirement and the task, determine the best structure to use.
+(2) no particular order - hash, order - tree

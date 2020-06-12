@@ -1,4 +1,4 @@
-
+package Homework3;
 public class Hw3_p3
 {
 	public static int[] topScore(int[] scores)

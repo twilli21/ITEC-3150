@@ -1,3 +1,4 @@
+package Homework3;
 import java.util.Arrays;
 
 public class Hw3_p2
